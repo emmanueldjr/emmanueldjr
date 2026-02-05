@@ -12,8 +12,8 @@ Actualmente cursando la carrera de Técnico Superior en Ciberseguridad en TEP �
 
 | Habilidad                                        | Proyecto Asociado       |
 |-----------------------------------------------|----------------------------|
-| Implementación de SIEM y Análisis de Logs       | <a href="https://google.com">Detection Lab</a>|
-| Monitoreo de Tráfico de Red y Detección de Ataques | <a href="https://google.com">Detection Lab</a>|
+| Pentesting y Explotación de Vulnerabilidades      | <a href="https://github.com/emmanueldjr/Metasploit">Metasploit Lab</a>|
+| Gestión de Sesiones Avanzadas (Meterpreter) | <a href="https://github.com/emmanueldjr/Metasploit">Metasploit Lab</a>|
 | Automatización de Seguridad con Shuffle SOAR       | SOC Automation Lab|
 | Planificación y Ejecución de Respuesta a Incidentes      | SOC Automation Lab|
 | Gestión de Casos con TheHive                  | SOC Automation Lab|
