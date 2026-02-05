@@ -64,6 +64,5 @@ Actualmente cursando la carrera de Técnico Superior en Ciberseguridad en TEP �
 ## Proyectos
 - <a href="https://github.com/emmanueldjr/Metasploit">Metasploit</a>
 - <a href="https://github.com/emmanueldjr/CrackingPassword">Laboratorio de Cracking de Contraseñas</a>
--Laboratorio de Cracking de Contraseñas
 
 
