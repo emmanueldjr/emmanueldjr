@@ -14,7 +14,7 @@ Actualmente cursando la carrera de Técnico Superior en Ciberseguridad en TEP �
 |-----------------------------------------------|----------------------------|
 | Pentesting y Explotación de Vulnerabilidades      | <a href="https://github.com/emmanueldjr/Metasploit">Metasploit Lab</a>|
 | Gestión de Sesiones Avanzadas (Meterpreter) | <a href="https://github.com/emmanueldjr/Metasploit">Metasploit Lab</a>|
-| Automatización de Seguridad con Shuffle SOAR       | SOC Automation Lab|
+| John the ripper & Hydra      | <a href="https://github.com/emmanueldjr/CrackingPassword">Laboratorio de Cracking de Contraseñas</a>|
 | Planificación y Ejecución de Respuesta a Incidentes      | SOC Automation Lab|
 | Gestión de Casos con TheHive                  | SOC Automation Lab|
 | Scripting y Automatización para Mitigación de Amenazas | SOC Automation Lab|
@@ -28,6 +28,8 @@ Actualmente cursando la carrera de Técnico Superior en Ciberseguridad en TEP �
     <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-005073?style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge&logo=zeek&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Hydra-555555?style=for-the-badge&logo=target&logoColor=white" alt="Hydra" />
+<img src="https://img.shields.io/badge/John_the_Ripper-333333?style=for-the-badge&logo=password-manager&logoColor=white" alt="John the Ripper" />
 </div>
 
 ### 🛡️ Endpoint & SIEM
@@ -61,6 +63,7 @@ Actualmente cursando la carrera de Técnico Superior en Ciberseguridad en TEP �
 
 ## Proyectos
 - <a href="https://github.com/emmanueldjr/Metasploit">Metasploit</a>
-- SOC Automation Project
+- <a href="https://github.com/emmanueldjr/CrackingPassword">Laboratorio de Cracking de Contraseñas</a>
+-Laboratorio de Cracking de Contraseñas
 
 
