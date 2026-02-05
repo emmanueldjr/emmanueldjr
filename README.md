@@ -1,5 +1,5 @@
 # Hello, I'm Emmanuel De Jesús R.
-<a href="https://www.linkedin.com/in/emmanueldjr/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/emmanueldjr/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
 
 Cybersecurity Student @ TEP-PUCMM. Passionate about information security, OSINT, and infrastructure hardening. Dedicated to transforming complex technical problems into secure, documented solutions.
 
@@ -20,31 +20,38 @@ Currently pursuing a degree as a **Cybersecurity Professional Technician** at **
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### 🌐 Network & Scanning
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nmap-4E9BCD?style=for-the-badge&logo=nmap&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-005073?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge&logo=zeek&logoColor=white" /> 
 </div>
 
-### Endpoint
+### 🛡️ Endpoint & SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" />
+    <img src="https://img.shields.io/badge/Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Velociraptor-4B275F?style=for-the-badge&logo=velociraptor&logoColor=white" /> 
 </div>
 
-### SIEM
+### 🖥️ Virtualization & Systems
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/VirtualBox-214292?style=for-the-badge&logo=virtualbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+    <img src="https://img.shields.io/badge/Cisco_Endpoint_Security-005073?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
