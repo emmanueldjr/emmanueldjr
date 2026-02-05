@@ -51,7 +51,6 @@ Actualmente cursando la carrera de TÃ©cnico Superior en Ciberseguridad en TEP â€
 </div>
 
 ## Certificaciones
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
  <a href="https://www.credly.com/badges/6fc7f270-f4fe-467b-9da0-ce5e1c49cbbe"> <img src="https://img.shields.io/badge/Cisco_Endpoint_Security-005073?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
