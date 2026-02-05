@@ -60,7 +60,7 @@ Actualmente cursando la carrera de TÃ©cnico Superior en Ciberseguridad en TEP â€
 </div>
 
 ## Proyectos
-- Detection Lab
+- <a href="https://github.com/emmanueldjr/Metasploit">Metasploit</a>
 - SOC Automation Project
 
 
