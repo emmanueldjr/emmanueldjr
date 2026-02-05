@@ -1,27 +1,27 @@
-# Hello, I'm Emmanuel De Jesús R.
+# Hola, soy Emmanuel De Jesús R.
 <a href="https://www.linkedin.com/in/emmanueldjr/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
 
-Cybersecurity Student @ TEP-PUCMM. Passionate about information security, OSINT, and infrastructure hardening. Dedicated to transforming complex technical problems into secure, documented solutions.
+Estudiante de Ciberseguridad en TEP-PUCMM. Apasionado por la seguridad de la información, OSINT y el endurecimiento de infraestructuras (hardening). Dedicado a transformar problemas técnicos complejos en soluciones seguras y documentadas.
 
-## Objective
+## Objetivo
 
-Currently pursuing a degree as a **Cybersecurity Professional Technician** at **TEP – PUCMM**, I am focused on mastering defensive security operations. My primary goal is to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst**, where I can apply my skills in incident monitoring, OSINT investigation, and network hardening to protect critical business assets.
+Actualmente cursando la carrera de Técnico Superior en Ciberseguridad en TEP – PUCMM, estoy enfocado en dominar las operaciones de seguridad defensiva. Mi objetivo principal es integrarme a un Centro de Operaciones de Seguridad (SOC) como Analista Nivel 1 (Tier 1), donde pueda aplicar mis conocimientos en monitoreo de incidentes, investigación OSINT y aseguramiento de redes para proteger los activos críticos empresariales.
 
-## Skills
+## Habilidades
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Habilidad                                        | Proyecto Asociado       |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Implementación de SIEM y Análisis de Logs       | <a href="https://google.com">Detection Lab</a>|
+| Monitoreo de Tráfico de Red y Detección de Ataques | <a href="https://google.com">Detection Lab</a>|
+| Automatización de Seguridad con Shuffle SOAR       | SOC Automation Lab|
+| Planificación y Ejecución de Respuesta a Incidentes      | SOC Automation Lab|
+| Gestión de Casos con TheHive                  | SOC Automation Lab|
+| Scripting y Automatización para Mitigación de Amenazas | SOC Automation Lab|
 
-## Tools
+## Herramientas
 
-### 🌐 Network & Scanning
+### 🌐 Redes y Escaneo
 <div>
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/Nmap-4E9BCD?style=for-the-badge&logo=nmap&logoColor=white" /> 
@@ -39,7 +39,7 @@ Currently pursuing a degree as a **Cybersecurity Professional Technician** at **
     <img src="https://img.shields.io/badge/Velociraptor-4B275F?style=for-the-badge&logo=velociraptor&logoColor=white" /> 
 </div>
 
-### 🖥️ Virtualization & Systems
+### 🖥️ Virtualización y Sistemas
 <div>
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
     <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" /> 
@@ -48,10 +48,10 @@ Currently pursuing a degree as a **Cybersecurity Professional Technician** at **
     <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
 
-## Certifications
+## Certificaciones
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-    <img src="https://img.shields.io/badge/Cisco_Endpoint_Security-005073?style=for-the-badge&logo=cisco&logoColor=white" />
+ <a href="https://www.credly.com/badges/6fc7f270-f4fe-467b-9da0-ce5e1c49cbbe"> <img src="https://img.shields.io/badge/Cisco_Endpoint_Security-005073?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -59,6 +59,8 @@ Currently pursuing a degree as a **Cybersecurity Professional Technician** at **
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
+## Proyectos
 - Detection Lab
 - SOC Automation Project
+
+
