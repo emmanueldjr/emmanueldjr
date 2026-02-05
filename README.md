@@ -1,14 +1,11 @@
 # Hello, I'm Emmanuel De Jesús R.
 <a href="https://www.linkedin.com/in/emmanueldjr/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Cybersecurity Student @ TEP-PUCMM. Passionate about information security, OSINT, and infrastructure hardening. Dedicated to transforming complex technical problems into secure, documented solutions.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Currently pursuing a degree as a **Cybersecurity Professional Technician** at **TEP – PUCMM**, I am focused on mastering defensive security operations. My primary goal is to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst**, where I can apply my skills in incident monitoring, OSINT investigation, and network hardening to protect critical business assets.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
